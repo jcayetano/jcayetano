@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @jcayetano
 - 👀 I’m interested in Solutions Architecure, Observability, SRE, DevOps, Serverless, Cloud Providers
 - 📫 Mastodon: [@caye@malaga.social](https://malaga.social/@caye)
-- 🎆 Currently working as a Sr. Technical Account Manager @Datadog
+- 🎆 Currently working as a Staff TAM @DatadogHQ
 - Previously: @SkyUK, @PikselInc, @Ioko, @Ingenia.es
 
 <!---
